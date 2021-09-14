@@ -1,0 +1,8 @@
+*{margin: 0px;padding: 0px;}
+.container{background: #009DDE;height: 100px;}
+.head{margin: 0px auto;width: 90%;}
+.bar1{}
+.bar1 ul{list-style: none;padding-top: 42px;margin-left: 22%;}
+.bar1 ul li{float: left;margin: 0px auto auto 30px;font-size: 16px;}
+.bar1 ul li a{text-decoration: none;color: #f2e2e2;}
+.bar1 ul li a:hover{color:#ffffff;}
